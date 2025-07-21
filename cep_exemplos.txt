@@ -1,0 +1,7 @@
+📍 Lista de CEPs por Estado (capitais)
+UF	Cidade	        CEP
+
+AM	Manaus	        69029-040
+PE	Recife	        51230-030
+PR	Curitiba	    80020‑310
+SP	São Paulo	    01310‑000

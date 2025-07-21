@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Clima por CEP</title>
+    <link rel="stylesheet" href="static/style.css" />
+  </head>
+
+  <body>
+    <header>
+      <h1>Consulta Climática</h1>
+
+    </header>
+    <main>
+      <h1>Previsão do Tempo por CEP</h1>
+      <input type="text" id="cep" placeholder="Digite o CEP" />
+      <button onclick="buscarClima()">Buscar</button>
+
+      <div id="weather-container" style="display: none">
+        <div class="info" id="local"></div>
+        <div class="info" id="temperatura"></div>
+        <div class="info" id="condicao"></div>
+        <div class="info" id="humidade"></div>
+        <div class="info" id="pressao"></div>
+        <div class="info" id="vento"></div>
+        <div class="info" id="direcao_vento"></div>
+        <div class="info" id="data_hora"></div>
+      </div>
+    </main>
+    <footer>
+      <p>&copy; 2025 - Sistema de Clima via WeatherAPI - Created by: josevaldomr@gmail.com</p>
+    </footer>
+    <script src="static/script.js"></script>
+  </body>
+</html>
