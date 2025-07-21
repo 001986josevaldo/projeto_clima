@@ -26,12 +26,17 @@ Sistema web que permite ao usuário consultar as **condições climáticas atuai
 
 ## 📦 Estrutura do Projeto
 projeto_clima/
+
 ├── app.py # Back-end Flask
 ├── .env # Chave da API (não versionar)
+
 ├── static/
+
 │ ├── style.css # Estilos do site
 │ └── script.js # Lógica de requisição no navegador
+
 ├── templates/
+
 │ └── index.html # Página principal
 └── README.md
 ├── requirements.txt
@@ -50,7 +55,9 @@ cd projeto_clima
 ### 2. Crie o ambiente virtual (opcional, mas recomendado)
 
 python -m venv venv
+
 source venv/bin/activate  # Linux/macOS
+
 venv\Scripts\activate     # Windows
 
 ### 3. Instale as dependências
@@ -101,7 +108,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 🙋‍♂️ Autor
 Desenvolvido por Josevaldo Moreira
 
-📧 josevaldomr@gmail.com 📧 josevaldo.m@unemat.br
+📧 josevaldomr@gmail.com    📧 josevaldo.m@unemat.br
 
 🔗 https://www.linkedin.com/in/josevaldomoreira
 
