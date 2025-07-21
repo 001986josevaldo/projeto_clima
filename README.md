@@ -75,6 +75,7 @@ http://localhost:5000
 
 
 🧪 Exemplo de Uso
+
 Digite um CEP válido como 78735816 e veja:
 
 🌡️ Temperatura atual
@@ -99,6 +100,8 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 🙋‍♂️ Autor
 Desenvolvido por Josevaldo Moreira
+
 📧 josevaldomr@gmail.com 📧 josevaldo.m@unemat.br
+
 🔗 https://www.linkedin.com/in/josevaldomoreira
 
