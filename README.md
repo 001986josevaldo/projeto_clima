@@ -28,18 +28,23 @@ Sistema web que permite ao usuário consultar as **condições climáticas atuai
 projeto_clima/
 
 ├── app.py # Back-end Flask
+
 ├── .env # Chave da API (não versionar)
 
 ├── static/
 
 │ ├── style.css # Estilos do site
+
 │ └── script.js # Lógica de requisição no navegador
 
 ├── templates/
 
 │ └── index.html # Página principal
+
 └── README.md
+
 ├── requirements.txt
+
 └── .gitignore
 
 ---
