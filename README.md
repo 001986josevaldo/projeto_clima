@@ -44,6 +44,7 @@ projeto_clima/
 ### 1. Clone o repositório
 
 git clone https://github.com/seu-usuario/projeto_clima.git
+
 cd projeto_clima
 
 ### 2. Crie o ambiente virtual (opcional, mas recomendado)
@@ -71,6 +72,7 @@ python app.py
 ## 6. Acesse a aplicação
 
 http://localhost:5000
+
 
 🧪 Exemplo de Uso
 Digite um CEP válido como 78735816 e veja:
